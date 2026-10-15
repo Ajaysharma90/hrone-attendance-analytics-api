@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+boundary_*.json
+halfday_*.json
+late_*.json
+overtime_*.json
+punch_*.json
+regularize_*.json
